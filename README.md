@@ -11,7 +11,7 @@ Over the last few months in 2022 I have noticed that SPY reacts dramatically to 
 <img width="1115" alt="Screen Shot 2022-12-11 at 12 46 10 PM" src="https://user-images.githubusercontent.com/69361645/206919823-87d4c436-e542-4482-86e3-9e78c72f88ac.png">
 
 
-4) As you can see this strategy would have yielded about 50% return in 2022, meaning for each $400 put in, I would have got $600. Additionally, the market became more volatile since June and this strategy would have yielded 100% return since June 2022, meaning for each $400 put in I would have got $800.
+4) This strategy would have yielded about 50% return in 2022, meaning for each $400 put in, I would have got $600. Additionally, the market became more volatile since June and this strategy would have yielded 100% return since June 2022, meaning for each $400 put in I would have got $800.
 
 5) I have also explored two other strategies: selling at close of CPI day would yield 100% return in 2022 and 195% return since June 2022. This stratgey is especially hard to implement beacuse it takes a lot of mental capital to hold a contract that ITM and profitable through the uncertainty of a trading day.
 
