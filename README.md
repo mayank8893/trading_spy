@@ -17,6 +17,6 @@ Over the last few months in 2022 I have noticed that SPY reacts dramatically to 
 
 6) Maximum profit could be attained by selling at high/low of the CPI day, yielding 266% return in 2022 and 390% since June 2022. This strategy is obviously hard to implement because its hard to predict high/low of the day.
 
-7) All in all, buying both a call and put option contract to the nearest integer closing price of SPY on the pre-CPI day would yield on average a minimum of 50% return 2022 and 100% reutrn since June 2022. I have to note that this strategy expects the market to be volatile to be profitable.
+7) All in all, buying both a call and put option contract to the nearest integer closing price of SPY on the pre-CPI day would yield on average a 50% return 2022 and 100% return since June 2022. I have to note that this strategy expects the market to be volatile to be profitable.
 
 Take everything with a grain of salt. Not a financial advise.
